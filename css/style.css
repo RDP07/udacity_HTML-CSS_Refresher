@@ -7,7 +7,10 @@
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
+}
 
+.app {
+	display: flex;
 }
 
 .screenshot {
